@@ -1,0 +1,30 @@
+[Query 1] Shortest path 0 -> 999999: No path or invalid nodes
+[Query 1] Time: 1.71907 seconds
+
+[Query 2] Add node: 1000000
+[Query 2] Time: 5e-06 seconds
+
+[Query 3] Add edge: 999999 1000000 weight 5
+[Query 3] Time: 7e-06 seconds
+
+[Query 4] Shortest path 0 -> 1000000: No path or invalid nodes
+[Query 4] Time: 1.81406 seconds
+
+[Query 5] Shortest path 505335 -> 604056: 106
+[Query 5] Time: 1.71371 seconds
+
+[Query 6] Shortest path 729662 -> 405935: No path or invalid nodes
+[Query 6] Time: 0.148952 seconds
+
+[Query 7] Shortest path 149041 -> 423348: No path or invalid nodes
+[Query 7] Time: 1.81263 seconds
+
+[Query 8] Shortest path 541573 -> 347623: 91
+[Query 8] Time: 1.20441 seconds
+
+[Query 9] Shortest path 150450 -> 220673: 72
+[Query 9] Time: 0.510774 seconds
+
+[Query 10] Shortest path 672084 -> 124250: No path or invalid nodes
+[Query 10] Time: 0.151268 seconds
+
